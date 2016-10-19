@@ -20,12 +20,6 @@ import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
 
-//import com.google.android.mms.ContentType;
-//import com.google.android.mms.pdu.GenericPdu;
-//import com.google.android.mms.pdu.NotificationInd;
-//import com.google.android.mms.pdu.PduHeaders;
-//import com.google.android.mms.pdu.PduParser;
-
 /**
  * Receiver for MMS WAP push
  */
